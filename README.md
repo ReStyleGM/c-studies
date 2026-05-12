@@ -21,4 +21,5 @@
 - Estudar estruturas de dados clássicas;
 - Analisar complexidade de algoritmos;
 - Criar implementações modulares e organizadas.
-. Cada pasta contém implementações, exercícios e pequenos projetos relacionados ao tema estudado.
+
+Cada pasta contém implementações, exercícios e pequenos projetos relacionados ao tema estudado.
