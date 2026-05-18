@@ -42,3 +42,10 @@ int main()
     ordena(v, i);
     free(v);
 }
+
+/*
+Exemplo:
+5
+1 7 90 20 30
+ATENÇÃO: SOMENTE PARA NÚMEROS INTEIROS!
+*/
